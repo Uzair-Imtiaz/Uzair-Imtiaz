@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Uzair-Imtiaz
-- 👀 I’m interested in front-end programming and python programming.
-- 🌱 I’m currently learning javaScript.
+- 👀 I’m interested in backend development.
 - 💞️ I’m looking to collaborate on web developement.
 - 📫 You can reach me at uzair.imtyaz@outlook.com
 
